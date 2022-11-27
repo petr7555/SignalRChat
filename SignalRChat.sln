@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChat", "SignalRChat\SignalRChat.csproj", "{3F0C0758-4C0C-47C9-B67E-86ECBAAB91BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0C0758-4C0C-47C9-B67E-86ECBAAB91BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0C0758-4C0C-47C9-B67E-86ECBAAB91BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0C0758-4C0C-47C9-B67E-86ECBAAB91BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0C0758-4C0C-47C9-B67E-86ECBAAB91BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
